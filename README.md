@@ -1,2 +1,4 @@
 # DAILY
-Learn &amp; practice data structure and algorithm everyday
+
+Unfortunately, this project is under construction..!
+Please check out the repository menu :)
